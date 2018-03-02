@@ -3,6 +3,9 @@
 
 JavaScript Week 4 - Creating a clean and polished application.
 
+## Current Status
+This is still a work in progress. See Application Dev Plan
+
 ## Personal Development
 Explore creating a clean and functional application that I personally will be using on a regular basis. Current concern is that all the applications I've made up to this point has only been exercises for a concept.
 
@@ -22,16 +25,16 @@ This might be a larger undertaking, but this will be one of my main goals out of
 - [Ocrad.js](http://antimatter15.com/ocrad.js/demo.html) - Possible text from image js
 
 ### Application Dev Plan
-- Create Baseline objects and routers.
-- Connect to Firebase for initial data creation and storage
-- Implement OAuth2
-- Connect individual sign-ins with Google Sheets
-- Store parsed data into google sheets so the user can easily see and modify cost information.
-- Re-pull from google sheets to get updated data.
-- Possibly implement REACT Native to publish to Android and IOS
-- Use Expo.io
+- [x] Create Baseline objects and routers.
+- [ ] Connect to Firebase for initial data creation and storage
+- [ ] Implement OAuth2
+- [ ] Connect individual sign-ins with Google Sheets
+- [ ] Store parsed data into google sheets so the user can easily see and modify cost information.
+- [ ] Re-pull from google sheets to get updated data.
+- [ ] Possibly implement REACT Native to publish to Android and IOS
+- [ ] Use Expo.io
 
-| Objectives | Current Progress |
+| Objectives | Current Progress Details|
 | --- | --- |
 | Implement OAuth2 | Google Drive [OAuth 2.0](https://developers.google.com/identity/protocols/OAuth2)  |
 |Google Sheets | Based on [REST](https://developers.google.com/sheets/api/reference/rest/) routes. GET and POST are used to add and retrieve data from Google Sheets.  |
