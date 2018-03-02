@@ -1,4 +1,6 @@
 # Angular Extended
+![Byron Chang](research/logo.png)
+
 JavaScript Week 4 - Creating a clean and polished application.
 
 ## Personal Development
@@ -19,7 +21,14 @@ This might be a larger undertaking, but this will be one of my main goals out of
 - Implement OAuth2
 - Connect individual sign-ins with Google Sheets
 - Store parsed data into google sheets so the user can easily see and modify cost information.
-- Re-pull from google sheets to get updated data. 
+- Re-pull from google sheets to get updated data.
+- Possibly implement REACT Native to publish to Android and IOS
+
+| Objectives | Current Progress |
+| --- | --- |
+| Implement OAuth2 | Google Drive [OAuth 2.0](https://developers.google.com/identity/protocols/OAuth2)  |
+|Google Sheets | Based on [REST](https://developers.google.com/sheets/api/reference/rest/) routes. GET and POST are used to add and retrieve data from Google Sheets.  |
+| Use React Native | [React Native](http://facebook.github.io/react-native/): From initial research, React Native can be built in atom and angular.  |
 
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
