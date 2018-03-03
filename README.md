@@ -6,8 +6,16 @@ JavaScript Week 4 - Creating a clean and polished application.
 ## Current Status
 This is still a work in progress. See Application Dev Plan
 
-## Personal Development
+## Submission: Personal Development
 Explore creating a clean and functional application that I personally will be using on a regular basis. Current concern is that all the applications I've made up to this point has only been exercises for a concept.
+
+Spent some initial time going through the motions of creating an app. I Started going into details of what I would like to create. Once the research begun, I started digging into all the different technologies i would like to eventually leverage.
+
+I have a strong need to start seeing a plan before developing so I started on some early concepts and layout planning.
+
+There were a lot of questions, that range from using Google Drive accounts and how to use React Native.
+
+Ultimate goal for myself is to create a fully functional application.
 
 ### Application Bill-Splitter
 This might be a larger undertaking, but this will be one of my main goals out of Epicodus. Creating a functional bill splitting app that I and others will want to use is going to be a struggle for finding and tackling bugs and inconsistencies.
